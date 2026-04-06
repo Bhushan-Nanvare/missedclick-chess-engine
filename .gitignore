@@ -1,0 +1,22 @@
+# Build output
+build/
+MissedClick
+MissedClick_debug
+*.o
+*.d
+
+# Windows binaries (cross-compiled)
+*.exe
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.txt.bak

@@ -1,4 +1,4 @@
-# MissedClick Chess Engine
+# MissedClick Chess Engine (author: Bhushan Nanvare)
 
 A UCI-compliant chess engine written in C++17, compatible with **Arena**, Cute Chess,
 and any UCI-aware chess GUI.
